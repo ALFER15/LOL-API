@@ -1,0 +1,171 @@
+[
+  {
+    "championId": "kaisa",
+    "vsChampionId": "draven",
+    "role": "adc",
+    "elo": "emerald",
+    "patch": "25.18",
+    "winRate": 0.46,
+    "sampleSize": 12450,
+    "tipsFor": ["Juega por escalado nivel 6", "Evita tradeos largos antes de mítico", "Abusa de rango con W en waves seguras"],
+    "tipsAgainst": ["Cede prioridad en nivel 2 si no hay jungla cerca", "Respeta hachas en pared", "Compra Fajin si hay cadena de CC"]
+  },
+  {
+    "championId": "kaisa",
+    "vsChampionId": "caitlyn",
+    "role": "adc",
+    "elo": "emerald",
+    "patch": "25.18",
+    "winRate": 0.48,
+    "sampleSize": 9800,
+    "tipsFor": ["Congela cerca de tu torre", "Amenaza all-in con jungla al 6", "Busca ángulos con invisibilidad (E evolucionada)"],
+    "tipsAgainst": ["No farmees bajo trampas", "Mantén el wave management para no ser zoneado", "Respeta rango + headshot"]
+  },
+  {
+    "championId": "kaisa",
+    "vsChampionId": "ezreal",
+    "role": "adc",
+    "elo": "emerald",
+    "patch": "25.18",
+    "winRate": 0.52,
+    "sampleSize": 11200,
+    "tipsFor": ["Castiga su enfriamiento de E", "Forza peleas con jungla cuando no tiene Arcane Shift", "Objetos on-hit escalan mejor en 2 items"],
+    "tipsAgainst": ["Esquiva Q con minions", "No gastes R agresiva sin visión", "Controla dragones; Ezreal escala por poke"]
+  },
+
+  {
+    "championId": "ahri",
+    "vsChampionId": "zed",
+    "role": "mid",
+    "elo": "emerald",
+    "patch": "25.18",
+    "winRate": 0.51,
+    "sampleSize": 8900,
+    "tipsFor": ["Encadena Encanto antes de full combo", "Mantén wave en medio para evitar all-ins", "Compra Zhonya temprano"],
+    "tipsAgainst": ["Juega atrás cuando su R está disponible", "Wards profundos para rastrear flancos", "No gastes E sin presión de jungla"]
+  },
+  {
+    "championId": "ahri",
+    "vsChampionId": "syndra",
+    "role": "mid",
+    "elo": "emerald",
+    "patch": "25.18",
+    "winRate": 0.48,
+    "sampleSize": 7400,
+    "tipsFor": ["Busca ángulos laterales para E", "All-in post 6 cuando gaste E/Q", "Roamea si no puedes ganar push"],
+    "tipsAgainst": ["Respeta scatter (E) + R burst", "No te quedes sin dash (R) sin visión lateral", "MR situacional (Velo/Banshee)"]
+  },
+  {
+    "championId": "ahri",
+    "vsChampionId": "yasuo",
+    "role": "mid",
+    "elo": "emerald",
+    "patch": "25.18",
+    "winRate": 0.55,
+    "sampleSize": 6600,
+    "tipsFor": ["Ceba su Muro de Viento con W", "Encanto a melee para cortar combo", "Juega a picks con R en río"],
+    "tipsAgainst": ["No lances Q/E predecibles en línea recta", "Congela cerca de torre", "Anticípate a engages con jungla"]
+  },
+
+  {
+    "championId": "aatrox",
+    "vsChampionId": "camille",
+    "role": "top",
+    "elo": "emerald",
+    "patch": "25.18",
+    "winRate": 0.49,
+    "sampleSize": 5200,
+    "tipsFor": ["Castiga tras su Hookshot fallido", "Guarda E para reposicionarte en Q2", "Prioriza botas defensivas"],
+    "tipsAgainst": ["Respeta true damage de Q", "No pelees en su pasiva up", "Wards en tribush para evitar dives"]
+  },
+  {
+    "championId": "aatrox",
+    "vsChampionId": "jax",
+    "role": "top",
+    "elo": "emerald",
+    "patch": "25.18",
+    "winRate": 0.47,
+    "sampleSize": 6100,
+    "tipsFor": ["Poke con Q1/Q3 a distancia", "No le des peleas largas post 2 items", "Busca teamfights con R"],
+    "tipsAgainst": ["No gastes habilidades en su E (Counter Strike)", "Compra corta-curaciones", "Evita split sin TP"]
+  },
+  {
+    "championId": "aatrox",
+    "vsChampionId": "darius",
+    "role": "top",
+    "elo": "emerald",
+    "patch": "25.18",
+    "winRate": 0.52,
+    "sampleSize": 7000,
+    "tipsFor": ["Kitea su Q externa", "Corta su engage con W", "All-in con jungla antes de 6"],
+    "tipsAgainst": ["Evita recibir 5 cargas de hemorragia", "Respeta Fantasmal + Flash", "Juega oleadas grandes bajo torre"]
+  },
+
+  {
+    "championId": "leesin",
+    "vsChampionId": "khazix",
+    "role": "jungle",
+    "elo": "emerald",
+    "patch": "25.18",
+    "winRate": 0.5,
+    "sampleSize": 8400,
+    "tipsFor": ["Invade temprano con prioridad de lanes", "Guarda W para kitear su burst", "Controla cangrejos y visión"],
+    "tipsAgainst": ["No te aísles en ríos oscuros", "Compra control wards", "Respeta evoluciones de Kha'Zix"]
+  },
+  {
+    "championId": "leesin",
+    "vsChampionId": "jarvaniv",
+    "role": "jungle",
+    "elo": "emerald",
+    "patch": "25.18",
+    "winRate": 0.53,
+    "sampleSize": 5900,
+    "tipsFor": ["Interrumpe su combo con R", "Desarma ganks contragankeando 3:15–3:30", "Objetivos tempranos con bot prio"],
+    "tipsAgainst": ["Flash defensivo ante Cataclismo si no tienes wardhop", "No pelees en pasillos cerrados", "Armadura temprana"]
+  },
+  {
+    "championId": "leesin",
+    "vsChampionId": "viego",
+    "role": "jungle",
+    "elo": "emerald",
+    "patch": "25.18",
+    "winRate": 0.48,
+    "sampleSize": 6300,
+    "tipsFor": ["Pequeños skirmishes antes de que tenga objetos", "Deniega resets con focus", "Objetos anticuración tempranos"],
+    "tipsAgainst": ["No alargues peleas en 5v5", "Evita dar resets en objetivos", "Controla pits con wards y pinks"]
+  },
+
+  {
+    "championId": "thresh",
+    "vsChampionId": "nautilus",
+    "role": "support",
+    "elo": "emerald",
+    "patch": "25.18",
+    "winRate": 0.51,
+    "sampleSize": 9900,
+    "tipsFor": ["Interrumpe su entrada con Flay (E)", "Linterna para desenganchar", "Juega a pick con visión oscura"],
+    "tipsAgainst": ["No pelees sin prio de oleada", "Respeta su 6", "Compra botas defensivas si hay mucho engage"]
+  },
+  {
+    "championId": "thresh",
+    "vsChampionId": "leona",
+    "role": "support",
+    "elo": "emerald",
+    "patch": "25.18",
+    "winRate": 0.49,
+    "sampleSize": 8700,
+    "tipsFor": ["Zonéala con autoataques potenciados y E", "Castiga cuando falle E", "Usa Q sólo cuando no tenga W"],
+    "tipsAgainst": ["No te quedes sin hechizos defensivos", "Rotaciones rápidas al 6", "Prioriza Locket si hay burst"]
+  },
+  {
+    "championId": "thresh",
+    "vsChampionId": "morgana",
+    "role": "support",
+    "elo": "emerald",
+    "patch": "25.18",
+    "winRate": 0.45,
+    "sampleSize": 7600,
+    "tipsFor": ["Forza su Escudo Negro con E/amenaza de Q", "Busca picks fuera de visión", "Roamea si no puedes forzar 2v2"],
+    "tipsAgainst": ["Evita comerte Q en línea recta", "Paciencia: no tires Q cuando tenga escudo", "Compra Mikael si hay mucho CC"]
+  }
+]

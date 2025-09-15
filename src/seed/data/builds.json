@@ -1,0 +1,97 @@
+[
+  {
+    "championId": "kaisa",
+    "role": "adc",
+    "elo": "emerald",
+    "patch": "25.18",
+    "runes": {
+      "primary": "Precision",
+      "secondary": "Inspiration",
+      "perks": ["Lethal Tempo","Presence of Mind","Legend: Bloodline","Coup de Grace","Magical Footwear","Biscuit Delivery"]
+    },
+    "skills": ["Q","W","E"],
+    "startingItems": ["Doran's Blade","Health Potion"],
+    "coreItems": ["Kraken Slayer","Guinsoo's Rageblade","Nashor's Tooth"],
+    "situationalItems": ["Runaan's Hurricane","Terminus","Zhonya's Hourglass"],
+    "boots": "Berserker's Greaves",
+    "summoners": ["Flash","Heal"],
+    "notes": "Build AD on-hit estándar Emerald+ 25.18",
+    "upvotes": 0
+  },
+  {
+    "championId": "ahri",
+    "role": "mid",
+    "elo": "emerald",
+    "patch": "25.18",
+    "runes": {
+      "primary": "Domination",
+      "secondary": "Sorcery",
+      "perks": ["Electrocute","Taste of Blood","Eyeball Collection","Ultimate Hunter","Manaflow Band","Transcendence"]
+    },
+    "skills": ["Q","W","E"],
+    "startingItems": ["Doran's Ring","Health Potion"],
+    "coreItems": ["Malignance","Shadowflame","Zhonya's Hourglass","Rabadon's Deathcap"],
+    "situationalItems": ["Cryptbloom","Banshee's Veil"],
+    "boots": "Sorcerer's Shoes",
+    "summoners": ["Flash","Ignite"],
+    "notes": "Página Electrocutar + Malignance que aparece como óptima en Emerald+",
+    "upvotes": 0
+  },
+  {
+    "championId": "aatrox",
+    "role": "top",
+    "elo": "emerald",
+    "patch": "25.18",
+    "runes": {
+      "primary": "Precision",
+      "secondary": "Resolve",
+      "perks": ["Conqueror","Triumph","Legend: Haste","Last Stand","Bone Plating","Revitalize"]
+    },
+    "skills": ["Q","E","W"],
+    "startingItems": ["Doran's Shield","Health Potion"],
+    "coreItems": ["Spear of Shojin","Voltaic Cyclosword","Serylda's Grudge","Sterak's Gage"],
+    "situationalItems": ["Black Cleaver","Death's Dance"],
+    "boots": "Plated Steelcaps",
+    "summoners": ["Flash","Teleport"],
+    "notes": "Ruta de daño/cdr típica en 25.18 con Shojin + Voltaic",
+    "upvotes": 0
+  },
+  {
+    "championId": "leesin",
+    "role": "jungle",
+    "elo": "emerald",
+    "patch": "25.18",
+    "runes": {
+      "primary": "Precision",
+      "secondary": "Inspiration",
+      "perks": ["Conqueror","Triumph","Legend: Alacrity","Last Stand","Magical Footwear","Cosmic Insight"]
+    },
+    "skills": ["Q","E","W"],
+    "startingItems": [],
+    "coreItems": ["Eclipse","Black Cleaver"],
+    "situationalItems": ["Guardian Angel","Maw of Malmortius","Edge of Night"],
+    "boots": "Plated Steelcaps",
+    "summoners": ["Flash","Smite"],
+    "notes": "Lee Sin letalidad/bruise con Eclipse como primer grande",
+    "upvotes": 0
+  },
+  {
+    "championId": "thresh",
+    "role": "support",
+    "elo": "emerald",
+    "patch": "25.18",
+    "runes": {
+      "primary": "Resolve",
+      "secondary": "Inspiration",
+      "perks": ["Aftershock","Font of Life","Bone Plating","Unflinching","Hextech Flashtraption","Cosmic Insight"]
+    },
+    "skills": ["Q","E","W"],
+    "startingItems": ["World Atlas","Health Potion"],
+    "coreItems": ["Solstice Sleigh","Locket of the Iron Solari","Zeke's Convergence"],
+    "situationalItems": ["Knight's Vow","Frozen Heart","Mikael's Blessing"],
+    "boots": "Boots of Mobility",
+    "summoners": ["Flash","Ignite"],
+    "notes": "Soporte engage utilitario; Solstice Sleigh + Locket",
+    "upvotes": 0
+  }
+]

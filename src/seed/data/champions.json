@@ -1,0 +1,7 @@
+[
+  { "id": "kaisa", "name": "Kai'Sa", "roles": ["adc"], "aliases": ["kaisa","kai'sa"] },
+  { "id": "ahri", "name": "Ahri", "roles": ["mid"], "aliases": [] },
+  { "id": "aatrox", "name": "Aatrox", "roles": ["top"], "aliases": [] },
+  { "id": "leesin", "name": "Lee Sin", "roles": ["jungle"], "aliases": ["lee-sin"] },
+  { "id": "thresh", "name": "Thresh", "roles": ["support"], "aliases": [] }
+]
